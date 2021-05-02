@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy un desarrollador web y entusiasta del aprendizaje. Disfruto aprendiendo frameworks y tecnologías orientados tanto al front como al backend.
+Habilidades y experiencia:
+
+    💻 HTML, CSS, JavaScript, Bootstrap
+    🐍 Python
+    🔨 Django
+    🔨 API REST, MVC, POO 🔨
+
+Trabajo y practicas (backend):
+
+
+
+Trabajo y practicas (Frontend):
+
+
