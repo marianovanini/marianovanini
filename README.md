@@ -21,11 +21,12 @@ Habilidades y experiencia:
     💻 HTML, CSS, JavaScript, Bootstrap
     🐍 Python
     🔨 Django
+    🔨 Ruby
     🔨 API REST, MVC, POO 🔨
 
 Trabajo y practicas (backend):
 
-
+Ruby on Rails - friendsapp
 
 Trabajo y practicas (Frontend):
 
