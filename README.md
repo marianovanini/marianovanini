@@ -19,6 +19,9 @@ Soy un desarrollador web y entusiasta del aprendizaje. Disfruto aprendiendo fram
 Habilidades y experiencia:
 
     💻 HTML, CSS, JavaScript, Bootstrap
+        GO
+        AWS
+        PHP
     🐍 Python
     🔨 Django
     🔨 Ruby
