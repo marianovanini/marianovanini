@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 Software Engineer:
 
-    💻 HTML, CSS, JavaScript, Bootstrap
-    💻 GO
+    💻 HTML / CSS / JavaScript / Bootstrap
+    💻 GO / ent.
     💻 AWS / SST
     💻 PHP / Laravel
     💻 Python / Django / Flask
-    💻 GIT
+    💻 Git
     💻 MySQL
     💻 Swagger
     💻 API REST, MVC, POO
