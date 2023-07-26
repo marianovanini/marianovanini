@@ -1,4 +1,4 @@
-### 👋
+### 👋👋👋 Hello !
 
 <!--
 **marianovanini/marianovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +19,11 @@ Software Engineer:
 
     💻 HTML, CSS, JavaScript, Bootstrap
     💻 GO
-    💻 AWS
+    💻 AWS / SST
     💻 PHP / Laravel
-    💻 Python / Django
+    💻 Python / Django / Flask
+    💻 GIT
+    💻 MySQL
+    💻 Swagger
     💻 API REST, MVC, POO
 
