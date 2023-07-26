@@ -15,22 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy un desarrollador web y entusiasta del aprendizaje. Disfruto aprendiendo frameworks y tecnologías orientados tanto al front como al backend.
-Habilidades y experiencia:
+Software Engineer:
 
     💻 HTML, CSS, JavaScript, Bootstrap
-        GO
-        AWS
-        PHP
-    🐍 Python
-    🔨 Django
-    🔨 Ruby
-    🔨 API REST, MVC, POO 🔨
-
-Trabajo y practicas (backend):
-
-Ruby on Rails - friendsapp
-
-Trabajo y practicas (Frontend):
-
+    💻 GO
+    💻 AWS
+    💻 PHP / Laravel
+    💻 Python / Django
+    💻 API REST, MVC, POO
 
